@@ -2837,6 +2837,11 @@ input, select, textarea {
 			border-top: 0;
 		}
 
+	.aboutcenter {
+		display: flex;
+		justify-content: space-around;
+	}
+
 /* Footer */
 
 	#footer {
